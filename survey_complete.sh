@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=NULL
+EXAMCODE=sheepish dog car gelato 000000
 
 echo ${EXAMCODE}
