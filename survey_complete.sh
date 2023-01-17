@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE= 'sheepish dog car gelato 000000'
+EXAMCODE=194841438
 
 echo ${EXAMCODE}
